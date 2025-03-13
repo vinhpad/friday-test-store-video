@@ -1,5 +1,5 @@
 import org.example.Customer
-import org.example.Movie
+import org.example.movie.Movie
 import org.example.Rental
 import org.junit.jupiter.api.Assertions.assertEquals
 import kotlin.test.Test
